@@ -1,3 +1,0 @@
-/home/tamas/FILES/Gamma/Hordo/build/CMakeFiles/main.dir
-/home/tamas/FILES/Gamma/Hordo/build/CMakeFiles/edit_cache.dir
-/home/tamas/FILES/Gamma/Hordo/build/CMakeFiles/rebuild_cache.dir
