@@ -1,0 +1,13 @@
+/run/numberOfThreads 6
+/run/initialize
+
+
+/gps/particle mu-
+/gps/pos/type Point
+/gps/pos/centre -1.5 0.0 -7.0 cm
+/gps/direction 0 0 1 
+/gps/ene/type User 
+/gps/ene/emspec false # Energy spectrum is defined in momentum  
+/gps/hist/type energy
+
+/run/beamOn 10    
